@@ -8,3 +8,4 @@ index 6988c8d..975e13a 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
  You must receive some image as in demo branch
+# 6 коммитов + 1 с комментарием
